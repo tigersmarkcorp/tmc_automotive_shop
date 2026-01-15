@@ -10,7 +10,7 @@ const slides = [
   {
     badge: "NEWLY OPENED",
     title: "TIGERS MARK",
-    subtitle: "AUTOMOTIVE REPAIR SHOP",
+    subtitle: "AUTO MECHANIC SHOP",
     tagline: "Quality Service, Trusted Results",
     description: "Your newly opened destination for expert vehicle maintenance, genuine parts, and professional automotive solutions in the Philippines.",
     image: heroImage,
