@@ -90,12 +90,12 @@ const Header = () => {
     className="w-20 object-contain"
   />
 
-  <div className="leading-tight">
+   <div className="leading-tight">
     <h1 className="text-base font-bold tracking-tight">
-      TIGERS MARK
+      TIGERS AUTO MECHANIC SHOP
     </h1>
     <p className="text-[12px] text-muted-foreground uppercase tracking-wide">
-      Automotive Repair
+      Supply and Repair
     </p>
   </div>
 </motion.a>
