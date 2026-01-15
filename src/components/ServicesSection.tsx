@@ -103,7 +103,7 @@ const ServicesSection = () => {
             className="text-2xl md:text-3xl font-display font-bold text-foreground mb-3"
           >
             Expert Vehicle Care at
-            <span className="text-gradient-accent block">Tigers Mark Automotive</span>
+            <span className="text-gradient-accent block">Tigers Auto Mechanic Shop</span>
           </motion.h2>
           <motion.p 
             initial={{ opacity: 0, y: 20 }}
